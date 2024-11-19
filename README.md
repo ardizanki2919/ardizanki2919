@@ -1,6 +1,6 @@
 
-# 👋 Hello world!
+# 👋 Hello, World!
 
-My name is Ardi. I am a software engineer working with JavaScript and on all things web. I am currently based in Yogyakarta, Indonesia, and working here as well, but I am open to remote roles across the globe.
+My name is Ardi, and I am a software engineer working with JavaScript and everything related to web development. I am currently based in Yogyakarta, Indonesia, where I am working, but I am open to remote roles worldwide.
 
-Follow me, [@ardizanki_](https://twitter.com/ardizanki_) on Twitter. From time to time, I tweet about things I learned in my personal journey, be it tech, career, or even just general things about life. If you are on the platform, let’s connect!
+Follow me on Twitter: [@ardizanki_](https://twitter.com/ardizanki_). From time to time, I tweet about things I’ve learned in my personal journey, whether it’s tech, career, or even just general thoughts on life. If you're on the platform, let’s connect!
