@@ -1,6 +1,5 @@
 # 👋 Hello, World!
 
-My name is Ardi, and I’m passionate about software engineering, specializing in the React ecosystem. I’m currently based in Yogyakarta, Indonesia, where I work—but I’m open to remote opportunities worldwide.
+Hi, I'm Ardi! I'm a software engineer passionate about building scalable web applications with React & Next.js. Currently based in Yogyakarta, Indonesia, but open to remote opportunities worldwide.
 
-Follow me on [Twitter](https://x.com/ardizanki7)! From time to time, I share insights from my personal journey—whether it’s about tech, career growth, or general thoughts on life. If you’re on the platform, let’s connect!
-
+I share insights about tech, career growth, and life as a developer on [Twitter](https://x.com/ardizanki7). If you're interested in connecting and learning together, let's follow each other!
