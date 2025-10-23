@@ -1,7 +1,5 @@
-## 👋 Hi, I'm Ardi!
+## 👋 Hey hey!
 
-I'm a software engineer based in Yogyakarta, Indonesia, passionate about building scalable web applications with **JavaScript, TypeScript, and React**. I’m open to remote opportunities worldwide.
+I'm Ardi, a QA Engineer with 6 years of hands-on experience in both manual and automated testing. My expertise includes API testing with Postman, end-to-end testing with Playwright, CI/CD automation with GitHub Actions, database validation using SQL, and organizing structured test cases using spreadsheets.
 
-I enjoy writing clean, efficient code and solving complex problems that drive meaningful impact. When I’m not coding, I’m usually exploring the latest tech trends or sharing what I’ve learned.
-
-I regularly share insights on technology, career growth, and life as a developer on [X (formerly Twitter)](https://x.com/ardizanki7). Let’s connect — I’d love to learn from your journey too!
+Currently, alongside my work as a QA Engineer, I'm transitioning into Software Engineering to build modern and scalable web applications. In my spare time, I enjoy working on personal projects using HTML, CSS, JavaScript, TypeScript, and React.
